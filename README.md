@@ -40,9 +40,10 @@ npm install
 
 3. Get your Discord token:
    - Open Discord in your web browser (https://discord.com/app)
-   - Press **[Ctrl + Shift + I]** to open Developer Tools
-   - Go to the "Console" tab
-   - Paste this code and press Enter:
+
+- Press **[Ctrl + Shift + I]** to open Developer Tools
+- Go to the "Console" tab
+- Paste this code and press Enter:
 
 ```javascript
 window.webpackChunkdiscord_app.push([
@@ -86,10 +87,10 @@ node main.js
 
 2. Navigate through the interface using:
 
-   - ↑↓ Arrow keys to move up/down the server list
-   - Space to select/deselect servers
-   - Enter to confirm selection
-   - Ctrl+C to exit
+- ↑↓ Arrow keys to move up/down the server list
+- Space to select/deselect servers
+- Enter to confirm selection
+- Ctrl+C to exit
 
 3. Confirm your selection when prompted with 'y' or 'n'
 
@@ -157,9 +158,9 @@ This tool is for educational purposes only. The authors are not responsible for 
 - Never paste your token in public places or share it with anyone.
 - Avoid running scripts from untrusted sources that request your token.
 - If you suspect your token has been compromised:
-  1. Change your Discord password immediately
-  2. Enable 2FA if not already enabled
-  3. Review your account activity
-  4. Revoke any suspicious sessions
+1. Change your Discord password immediately
+2. Enable 2FA if not already enabled
+3. Review your account activity
+4. Revoke any suspicious sessions
 
 ---
