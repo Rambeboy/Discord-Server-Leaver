@@ -39,7 +39,8 @@ npm install
 ```
 
 3. Get your Discord token:
-   - Open Discord in your web browser (https://discord.com/app)
+
+- Open Discord in your web browser [Discord](https://discord.com/app)
 
 - Press **[Ctrl + Shift + I]** to open Developer Tools
 - Go to the "Console" tab
