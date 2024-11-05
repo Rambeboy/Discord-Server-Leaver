@@ -2,6 +2,8 @@
 
 An interactive CLI tool to help you leave multiple Discord servers easily. This tool provides a user-friendly interface to select and leave multiple servers at once.
 
+---
+
 ## Features
 
 - Interactive CLI interface with arrow key navigation
@@ -12,17 +14,21 @@ An interactive CLI tool to help you leave multiple Discord servers easily. This 
 - Confirmation before leaving servers
 - Visual feedback for successful/failed operations
 
+---
+
 ## Prerequisites
 
 - Node.js
 - npm
+
+---
 
 ## Installation
 
 1. Clone this repository
 
 ```bash
-git clone https://github.com/Galkurta/Discord-Server-Leaver.git
+git clone https://github.com/Rambeboy/Discord-Server-Leaver.git
 cd Discord-Server-Leaver
 ```
 
@@ -68,6 +74,8 @@ console.log(`%cYou now have your token in the clipboard!`, "font-size: 16px");
 TOKEN=your_discord_token_here
 ```
 
+---
+
 ## Usage
 
 1. Start the application:
@@ -84,6 +92,8 @@ node main.js
    - Ctrl+C to exit
 
 3. Confirm your selection when prompted with 'y' or 'n'
+
+---
 
 ## Interface Elements
 
@@ -103,11 +113,15 @@ Page 1/5
 - `[✓]` indicates selected server
 - `[ ]` indicates unselected server
 
+---
+
 ## Dependencies
 
 - discord.js-selfbot-v13
 - dotenv
 - readline (Node.js built-in)
+
+---
 
 ## Important Notes
 
@@ -117,17 +131,25 @@ Page 1/5
 - If your token is compromised, change your password immediately to generate a new token.
 - The tool will ask for confirmation before leaving any servers.
 
+---
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues and pull requests.
 
+---
+
 ## Disclaimer
 
 This tool is for educational purposes only. The authors are not responsible for any consequences that may arise from using this tool, including but not limited to account termination or other punitive actions from Discord.
+
+---
 
 ## Security Warning
 
@@ -139,3 +161,5 @@ This tool is for educational purposes only. The authors are not responsible for 
   2. Enable 2FA if not already enabled
   3. Review your account activity
   4. Revoke any suspicious sessions
+
+---
